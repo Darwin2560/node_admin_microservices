@@ -1,0 +1,2 @@
+tsc -w
+npm start
